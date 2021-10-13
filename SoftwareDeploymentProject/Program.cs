@@ -6,7 +6,7 @@ namespace SoftwareDeploymentProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Software Deployment project initialisation");
         }
     }
 }
