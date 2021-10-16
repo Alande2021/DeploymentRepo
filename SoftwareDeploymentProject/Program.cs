@@ -7,7 +7,7 @@ namespace SoftwareDeploymentProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Software Deployment project initialisation");
-            Console.WriteLine("Project by Alex and Tahsin for SWE30004");
+            Console.WriteLine("ALEX AND TAHSIN");
         }
     }
 }
